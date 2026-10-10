@@ -1,0 +1,12 @@
+{
+  "n_scenarios": 240,
+  "mean_affected": 16930.108333333334,
+  "p95_affected": 30443.299999999996,
+  "prob_any_shelter_overflow": 0.9041666666666667,
+  "mean_evac_p90_min": 79.15901348250306,
+  "total_population": 49596,
+  "workers": 2,
+  "wall_time_s": 14.69,
+  "seed": 7,
+  "grid": 120
+}

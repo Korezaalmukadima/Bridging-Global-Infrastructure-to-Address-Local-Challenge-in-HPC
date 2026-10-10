@@ -1,0 +1,3 @@
+workers,time_s,identical_to_serial,speedup,efficiency,karp_flatt_serial_fraction,scenarios_per_s
+1,28.5866,True,1.0,1.0,,8.3956
+2,15.1231,True,1.8903,0.9451,0.0581,15.8697
